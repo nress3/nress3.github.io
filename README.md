@@ -1,5 +1,9 @@
 # nress3.github.io
 personal website
+
+i'm not so sure what i'm doing here but i'm hoping to turn this into a personal website. stay tuned or whatever
+
+
 <form name="sentMessage" id="contactForm" novalidate>
       <div class="control-group">
         <div class="form-group floating-label-form-group controls">
