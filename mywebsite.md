@@ -1,5 +1,3 @@
-<!-- Page Header -->
-
 <header class="masthead" style="('https://miro.medium.com/v2/resize:fit:1250/1*FL21qjWA7JboicY-S2nS0Q.jpeg')">
   
   <header class="masthead">
@@ -8,12 +6,10 @@
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="page-heading">
-            <h1>Bobby Ressnowski, or whatever you wanna call me</h1>
-                
+            <h1>Bobby Ressnowski</h1>
+<body background = "greyfabric.jpg">                
                 Learning to code from Zero to Competent. I'll blog about it here.
-        
- 
-<body bgcolor = "grey">
+  
 <br/>
 <br/>
 <br/>
@@ -30,6 +26,10 @@ A couple of months ago I decided to try to learn how to code. I was feeling stuc
   <br/>
 
   <img src="codememe1.jpg">
+  <br/>
+  <br/>
+this looks like a powerpoint slide lol
 
-  </body> 
+</body>
+ 
 
