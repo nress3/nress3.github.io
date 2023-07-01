@@ -29,7 +29,7 @@ A couple of months ago I decided to try to learn how to code. I was feeling stuc
 this looks like a powerpoint slide lol
 </body>
 
-<style>
-<head>
-<html>
+
+</head>
+</html>
 
