@@ -1,4 +1,4 @@
-# nress3.github.io
+# Bobby Ressnowski, or whatever you wanna call me
 personal website
 
 i'm not so sure what i'm doing here but i'm hoping to turn this into a personal website. stay tuned or whatever
