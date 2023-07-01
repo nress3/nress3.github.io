@@ -7,7 +7,7 @@
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="page-heading">
             <h1>Bobby Ressnowski</h1>
-<body background = "greyfabric.jpg">                
+<body background = "wallpaper-mania.com_High_resolution_wallpaper_background_ID_77700372477.jpg">                
                 Learning to code from Zero to Competent. I'll blog about it here.
   
 <br/>
