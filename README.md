@@ -13,7 +13,7 @@
                 Learning to code from Zero to Competent. I'll blog about it here.
         
  
-  </header>
+ 
 
   <div class="container">
     <div class="row">
