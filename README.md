@@ -39,3 +39,21 @@ i'm not so sure what i'm doing here but i'm hoping to turn this into a personal 
         <button type="submit" class="btn btn-primary" id="sendMessageButton">Send</button>
       </div>
     </form>
+
+
+% if page.background %}
+{% else %}
+{% endif %}
+{{ site.title }}
+{% if site.description %} {{ site.description }} {% endif %}
+{{ content }} {% for post in site.posts limit : 5 %}
+{{ post.title }}
+{% if post.subtitle %}
+{{ post.subtitle }}
+{% else %}
+{{ post.excerpt | strip_html | truncatewords: 15 }}
+{% endif %}
+Posted by {% if post.author %} {{ post.author }} {% else %} {{ site.author }} {% endif %} on {{ post.date | date: '%B %d, %Y' }} · {% include read_time.html content=post.content %}
+
+{% endfor %}
+View All Posts →
