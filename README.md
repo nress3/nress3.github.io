@@ -1,8 +1,5 @@
 <html>
 <head>
-<style>
-body{ background-image:url(wallpaper-mania.com_High_resolution_wallpaper_background_ID_77700372477.jpg)}
-</style>
 
 <header class="masthead" style="(wallpaper-mania.com_High_resolution_wallpaper_background_ID_77700372477.jpg)">
   
