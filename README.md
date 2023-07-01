@@ -13,7 +13,7 @@
                 Learning to code from Zero to Competent. I'll blog about it here.
         
  
- 
+<body bgcolor = "grey">
 <br/>
 <br/>
 <br/>
@@ -30,5 +30,6 @@ A couple of months ago I decided to try to learn how to code. I was feeling stuc
   <br/>
 
   <img src="codememe1.jpg">
-  
+
+  </body> 
 
