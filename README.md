@@ -1,59 +1,26 @@
-# Bobby Ressnowski, or whatever you wanna call me
-personal website
+<!-- Page Header -->
 
-i'm not so sure what i'm doing here but i'm hoping to turn this into a personal website. stay tuned or whatever
+<header class="masthead" style="('https://miro.medium.com/v2/resize:fit:1250/1*FL21qjWA7JboicY-S2nS0Q.jpeg')">
+  
+  <header class="masthead">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="page-heading">
+            <h1>Bobby Ressnowski, or whatever you wanna call me</h1>
+                
+                Learning to code from Zero to Competent. I'll blog about it here.
+        
+ 
+  </header>
 
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
 
-<form name="sentMessage" id="contactForm" novalidate>
-      <div class="control-group">
-        <div class="form-group floating-label-form-group controls">
-          <label>Name</label>
-          <input type="text" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
-          <p class="help-block text-danger"></p>
-        </div>
-      </div>
-      <div class="control-group">
-        <div class="form-group floating-label-form-group controls">
-          <label>Email Address</label>
-          <input type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
-          <p class="help-block text-danger"></p>
-        </div>
-      </div>
-      <div class="control-group">
-        <div class="form-group col-xs-12 floating-label-form-group controls">
-          <label>Phone Number</label>
-          <input type="tel" class="form-control" placeholder="Phone Number" id="phone" required data-validation-required-message="Please enter your phone number.">
-          <p class="help-block text-danger"></p>
-        </div>
-      </div>
-      <div class="control-group">
-        <div class="form-group floating-label-form-group controls">
-          <label>Message</label>
-          <textarea rows="5" class="form-control" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
-          <p class="help-block text-danger"></p>
-        </div>
-      </div>
-      <br>
-      <div id="success"></div>
-      <div class="form-group">
-        <button type="submit" class="btn btn-primary" id="sendMessageButton">Send</button>
-      </div>
-    </form>
+A couple of months ago I decided to try to learn how to code. I was feeling stuck in a dead end job, and looking for something that could both be a good hobby for me as well as something I could potentially build into a skill or even career. I decided to code because I have a dream of one day making simple video games. This is a crazy fantasy, but still something to reach for which is more than i've had in a while. So here I go. I started learning C# online using microsoft resources and have slowly explored deeper into programming as a whole. I feel like a little fish in an enormous pond and I kinda love it. Everything is new and I feel like there are endless possibilites. What I mean by that of course is a TON to learn.lol but still, I'm making progress every day and hoping to turn this into something real. For now my goal is to learn C# and uinity to the best of my ability as well as some HTML and whatever else is required to maintain this simple website. I plan to try to post here to update my progress and hold myself accountable. Plus it will be neat to look over my journey. Anyway, that's enough about me. I'm going to bed.
 
+   
+  </div>
 
-% if page.background %}
-{% else %}
-{% endif %}
-{{ site.title }}
-{% if site.description %} {{ site.description }} {% endif %}
-{{ content }} {% for post in site.posts limit : 5 %}
-{{ post.title }}
-{% if post.subtitle %}
-{{ post.subtitle }}
-{% else %}
-{{ post.excerpt | strip_html | truncatewords: 15 }}
-{% endif %}
-Posted by {% if post.author %} {{ post.author }} {% else %} {{ site.author }} {% endif %} on {{ post.date | date: '%B %d, %Y' }} · {% include read_time.html content=post.content %}
-
-{% endfor %}
-View All Posts →
