@@ -12,7 +12,9 @@
             <h1>Bobby Ressnowski</h1>
 </div>
 
-<body>              
+<body>
+<style> body{ background-image:url(wallpaper-mania.com_High_resolution_wallpaper_background_ID_77700372477.jpg)} </style>
+  
 Learning to code from Zero to Competent. I'll blog about it here. 
 <br/>
 <br/>
@@ -26,6 +28,6 @@ A couple of months ago I decided to try to learn how to code. I was feeling stuc
 this looks like a powerpoint slide lol
 </body>
 
-<style> body{ background-image:url(wallpaper-mania.com_High_resolution_wallpaper_background_ID_77700372477.jpg)} </style>
+
 </head>
 </html>
